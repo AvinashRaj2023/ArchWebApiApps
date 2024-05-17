@@ -1,0 +1,11 @@
+D:\Avinash\Demo Architecture\DemoWebApi\DemoWebApi.Common\bin\Debug\net8.0\DemoWebApi.Common.deps.json
+D:\Avinash\Demo Architecture\DemoWebApi\DemoWebApi.Common\bin\Debug\net8.0\DemoWebApi.Common.dll
+D:\Avinash\Demo Architecture\DemoWebApi\DemoWebApi.Common\bin\Debug\net8.0\DemoWebApi.Common.pdb
+D:\Avinash\Demo Architecture\DemoWebApi\DemoWebApi.Common\obj\Debug\net8.0\DemoWebApi.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Avinash\Demo Architecture\DemoWebApi\DemoWebApi.Common\obj\Debug\net8.0\DemoWebApi.Common.AssemblyInfoInputs.cache
+D:\Avinash\Demo Architecture\DemoWebApi\DemoWebApi.Common\obj\Debug\net8.0\DemoWebApi.Common.AssemblyInfo.cs
+D:\Avinash\Demo Architecture\DemoWebApi\DemoWebApi.Common\obj\Debug\net8.0\DemoWebApi.Common.csproj.CoreCompileInputs.cache
+D:\Avinash\Demo Architecture\DemoWebApi\DemoWebApi.Common\obj\Debug\net8.0\DemoWebApi.Common.dll
+D:\Avinash\Demo Architecture\DemoWebApi\DemoWebApi.Common\obj\Debug\net8.0\refint\DemoWebApi.Common.dll
+D:\Avinash\Demo Architecture\DemoWebApi\DemoWebApi.Common\obj\Debug\net8.0\DemoWebApi.Common.pdb
+D:\Avinash\Demo Architecture\DemoWebApi\DemoWebApi.Common\obj\Debug\net8.0\ref\DemoWebApi.Common.dll

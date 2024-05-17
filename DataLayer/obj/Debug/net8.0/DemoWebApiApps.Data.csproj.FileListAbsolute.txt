@@ -1,0 +1,17 @@
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\bin\Debug\net8.0\DemoWebApiApps.Data.deps.json
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\bin\Debug\net8.0\DemoWebApiApps.Data.dll
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\bin\Debug\net8.0\DemoWebApiApps.Data.pdb
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\bin\Debug\net8.0\DemoWebApi.Common.dll
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\bin\Debug\net8.0\DemoWebApiApps.Business.dll
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\bin\Debug\net8.0\DemoWebApiApps.Business.pdb
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\bin\Debug\net8.0\DemoWebApi.Common.pdb
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.csproj.AssemblyReference.cache
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.AssemblyInfoInputs.cache
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.AssemblyInfo.cs
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.csproj.CoreCompileInputs.cache
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DemoWebA.0A430C3C.Up2Date
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.dll
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\refint\DemoWebApiApps.Data.dll
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.pdb
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\ref\DemoWebApiApps.Data.dll

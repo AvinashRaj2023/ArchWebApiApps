@@ -1,0 +1,11 @@
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
