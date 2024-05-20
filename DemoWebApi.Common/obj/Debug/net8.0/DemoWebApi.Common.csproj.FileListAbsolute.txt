@@ -9,3 +9,15 @@ D:\Avinash\Demo Architecture\DemoWebApi\DemoWebApi.Common\obj\Debug\net8.0\DemoW
 D:\Avinash\Demo Architecture\DemoWebApi\DemoWebApi.Common\obj\Debug\net8.0\refint\DemoWebApi.Common.dll
 D:\Avinash\Demo Architecture\DemoWebApi\DemoWebApi.Common\obj\Debug\net8.0\DemoWebApi.Common.pdb
 D:\Avinash\Demo Architecture\DemoWebApi\DemoWebApi.Common\obj\Debug\net8.0\ref\DemoWebApi.Common.dll
+C:\Avinash\EDRI_repo\ArchWebApiApps\DemoWebApi.Common\bin\Debug\net8.0\DemoWebApi.Common.deps.json
+C:\Avinash\EDRI_repo\ArchWebApiApps\DemoWebApi.Common\bin\Debug\net8.0\DemoWebApi.Common.dll
+C:\Avinash\EDRI_repo\ArchWebApiApps\DemoWebApi.Common\bin\Debug\net8.0\DemoWebApi.Common.pdb
+C:\Avinash\EDRI_repo\ArchWebApiApps\DemoWebApi.Common\obj\Debug\net8.0\DemoWebApi.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Avinash\EDRI_repo\ArchWebApiApps\DemoWebApi.Common\obj\Debug\net8.0\DemoWebApi.Common.AssemblyInfoInputs.cache
+C:\Avinash\EDRI_repo\ArchWebApiApps\DemoWebApi.Common\obj\Debug\net8.0\DemoWebApi.Common.AssemblyInfo.cs
+C:\Avinash\EDRI_repo\ArchWebApiApps\DemoWebApi.Common\obj\Debug\net8.0\DemoWebApi.Common.csproj.CoreCompileInputs.cache
+C:\Avinash\EDRI_repo\ArchWebApiApps\DemoWebApi.Common\obj\Debug\net8.0\DemoWebApi.Common.sourcelink.json
+C:\Avinash\EDRI_repo\ArchWebApiApps\DemoWebApi.Common\obj\Debug\net8.0\DemoWebApi.Common.dll
+C:\Avinash\EDRI_repo\ArchWebApiApps\DemoWebApi.Common\obj\Debug\net8.0\refint\DemoWebApi.Common.dll
+C:\Avinash\EDRI_repo\ArchWebApiApps\DemoWebApi.Common\obj\Debug\net8.0\DemoWebApi.Common.pdb
+C:\Avinash\EDRI_repo\ArchWebApiApps\DemoWebApi.Common\obj\Debug\net8.0\ref\DemoWebApi.Common.dll

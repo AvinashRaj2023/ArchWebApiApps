@@ -1,8 +1,7 @@
 ﻿using AutoMapper;
-using SpectrumEmpServices.Business.Mapper;
 using System;
 
-namespace SepctrumEmpServices.Business.Mapper
+namespace DemoWebApi.Business.Mapper
 {
     // The best implementation of AutoMapper for class libraries -> https://www.abhith.net/blog/using-automapper-in-a-net-core-class-library/
     public static class ObjectMapper

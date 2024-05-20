@@ -15,3 +15,23 @@ D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DemoWebApiApp
 D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\refint\DemoWebApiApps.Data.dll
 D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.pdb
 D:\Avinash\Demo Architecture\DemoWebApi\DataLayer\obj\Debug\net8.0\ref\DemoWebApiApps.Data.dll
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\bin\Debug\net8.0\DemoWebApiApps.Data.deps.json
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\bin\Debug\net8.0\DemoWebApiApps.Data.runtimeconfig.json
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\bin\Debug\net8.0\DemoWebApiApps.Data.dll
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\bin\Debug\net8.0\DemoWebApiApps.Data.pdb
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\bin\Debug\net8.0\DemoWebApi.Common.dll
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\bin\Debug\net8.0\DemoWebApiApps.Business.dll
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\bin\Debug\net8.0\DemoWebApiApps.Business.pdb
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\bin\Debug\net8.0\DemoWebApi.Common.pdb
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.csproj.AssemblyReference.cache
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.AssemblyInfoInputs.cache
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.AssemblyInfo.cs
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.csproj.CoreCompileInputs.cache
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.sourcelink.json
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\obj\Debug\net8.0\DemoWebA.0A430C3C.Up2Date
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.dll
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\obj\Debug\net8.0\refint\DemoWebApiApps.Data.dll
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.pdb
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\obj\Debug\net8.0\DemoWebApiApps.Data.genruntimeconfig.cache
+C:\Avinash\EDRI_repo\ArchWebApiApps\DataLayer\obj\Debug\net8.0\ref\DemoWebApiApps.Data.dll

@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using DemoWebApi.Common.Entities.Base;
 
-namespace DemoWebApi.Common.Repositories
+namespace DemoWebApi.Common.Repositories.Base
 {
     public interface IRepository<T> where T : Entity
     {

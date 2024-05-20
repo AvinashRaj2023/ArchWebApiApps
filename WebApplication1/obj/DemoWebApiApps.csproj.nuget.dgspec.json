@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Avinash\\Demo Architecture\\DemoWebApi\\WebApplication1\\DemoWebApiApps.csproj": {}
+    "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\WebApplication1\\DemoWebApiApps.csproj": {}
   },
   "projects": {
-    "D:\\Avinash\\Demo Architecture\\DemoWebApi\\BusinessLayer\\DemoWebApiApps.Business.csproj": {
+    "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\BusinessLayer\\DemoWebApiApps.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\BusinessLayer\\DemoWebApiApps.Business.csproj",
+        "projectUniqueName": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\BusinessLayer\\DemoWebApiApps.Business.csproj",
         "projectName": "DemoWebApiApps.Business",
-        "projectPath": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\BusinessLayer\\DemoWebApiApps.Business.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\BusinessLayer\\obj\\",
+        "projectPath": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\BusinessLayer\\DemoWebApiApps.Business.csproj",
+        "packagesPath": "C:\\Users\\avinashk\\.nuget\\packages\\",
+        "outputPath": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\avinashk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,85 +25,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DataLayer\\DemoWebApiApps.Data.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DataLayer\\DemoWebApiApps.Data.csproj",
-        "projectName": "DemoWebApiApps.Data",
-        "projectPath": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DataLayer\\DemoWebApiApps.Data.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DataLayer\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Avinash\\Demo Architecture\\DemoWebApi\\BusinessLayer\\DemoWebApiApps.Business.csproj": {
-                "projectPath": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\BusinessLayer\\DemoWebApiApps.Business.csproj"
-              },
-              "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DemoWebApi.Common\\DemoWebApi.Common.csproj": {
-                "projectPath": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DemoWebApi.Common\\DemoWebApi.Common.csproj"
+              "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DemoWebApi.Common\\DemoWebApi.Common.csproj": {
+                "projectPath": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DemoWebApi.Common\\DemoWebApi.Common.csproj"
               }
             }
           }
@@ -124,13 +56,109 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DataLayer\\DemoWebApiApps.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DataLayer\\DemoWebApiApps.Data.csproj",
+        "projectName": "DemoWebApiApps.Data",
+        "projectPath": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DataLayer\\DemoWebApiApps.Data.csproj",
+        "packagesPath": "C:\\Users\\avinashk\\.nuget\\packages\\",
+        "outputPath": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\avinashk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\BusinessLayer\\DemoWebApiApps.Business.csproj": {
+                "projectPath": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\BusinessLayer\\DemoWebApiApps.Business.csproj"
+              },
+              "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DemoWebApi.Common\\DemoWebApi.Common.csproj": {
+                "projectPath": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DemoWebApi.Common\\DemoWebApi.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
             }
           },
           "imports": [
@@ -149,21 +177,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DemoWebApi.Common\\DemoWebApi.Common.csproj": {
+    "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DemoWebApi.Common\\DemoWebApi.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DemoWebApi.Common\\DemoWebApi.Common.csproj",
+        "projectUniqueName": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DemoWebApi.Common\\DemoWebApi.Common.csproj",
         "projectName": "DemoWebApi.Common",
-        "projectPath": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DemoWebApi.Common\\DemoWebApi.Common.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DemoWebApi.Common\\obj\\",
+        "projectPath": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DemoWebApi.Common\\DemoWebApi.Common.csproj",
+        "packagesPath": "C:\\Users\\avinashk\\.nuget\\packages\\",
+        "outputPath": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DemoWebApi.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\avinashk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -171,7 +202,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -210,21 +240,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Avinash\\Demo Architecture\\DemoWebApi\\WebApplication1\\DemoWebApiApps.csproj": {
+    "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\WebApplication1\\DemoWebApiApps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\WebApplication1\\DemoWebApiApps.csproj",
+        "projectUniqueName": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\WebApplication1\\DemoWebApiApps.csproj",
         "projectName": "DemoWebApiApps",
-        "projectPath": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\WebApplication1\\DemoWebApiApps.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\WebApplication1\\DemoWebApiApps.csproj",
+        "packagesPath": "C:\\Users\\avinashk\\.nuget\\packages\\",
+        "outputPath": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\avinashk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -232,18 +265,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Avinash\\Demo Architecture\\DemoWebApi\\BusinessLayer\\DemoWebApiApps.Business.csproj": {
-                "projectPath": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\BusinessLayer\\DemoWebApiApps.Business.csproj"
+              "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\BusinessLayer\\DemoWebApiApps.Business.csproj": {
+                "projectPath": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\BusinessLayer\\DemoWebApiApps.Business.csproj"
               },
-              "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DataLayer\\DemoWebApiApps.Data.csproj": {
-                "projectPath": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DataLayer\\DemoWebApiApps.Data.csproj"
+              "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DataLayer\\DemoWebApiApps.Data.csproj": {
+                "projectPath": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DataLayer\\DemoWebApiApps.Data.csproj"
               }
             }
           }
@@ -263,6 +295,38 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -291,7 +355,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

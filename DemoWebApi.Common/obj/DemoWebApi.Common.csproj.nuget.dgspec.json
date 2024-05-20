@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DemoWebApi.Common\\DemoWebApi.Common.csproj": {}
+    "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DemoWebApi.Common\\DemoWebApi.Common.csproj": {}
   },
   "projects": {
-    "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DemoWebApi.Common\\DemoWebApi.Common.csproj": {
+    "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DemoWebApi.Common\\DemoWebApi.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DemoWebApi.Common\\DemoWebApi.Common.csproj",
+        "projectUniqueName": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DemoWebApi.Common\\DemoWebApi.Common.csproj",
         "projectName": "DemoWebApi.Common",
-        "projectPath": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DemoWebApi.Common\\DemoWebApi.Common.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Avinash\\Demo Architecture\\DemoWebApi\\DemoWebApi.Common\\obj\\",
+        "projectPath": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DemoWebApi.Common\\DemoWebApi.Common.csproj",
+        "packagesPath": "C:\\Users\\avinashk\\.nuget\\packages\\",
+        "outputPath": "C:\\Avinash\\EDRI_repo\\ArchWebApiApps\\DemoWebApi.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\avinashk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

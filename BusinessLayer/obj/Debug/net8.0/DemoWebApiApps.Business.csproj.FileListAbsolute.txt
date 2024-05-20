@@ -10,3 +10,19 @@ D:\Avinash\Demo Architecture\DemoWebApi\BusinessLayer\obj\Debug\net8.0\DemoWebAp
 D:\Avinash\Demo Architecture\DemoWebApi\BusinessLayer\obj\Debug\net8.0\refint\DemoWebApiApps.Business.dll
 D:\Avinash\Demo Architecture\DemoWebApi\BusinessLayer\obj\Debug\net8.0\DemoWebApiApps.Business.pdb
 D:\Avinash\Demo Architecture\DemoWebApi\BusinessLayer\obj\Debug\net8.0\ref\DemoWebApiApps.Business.dll
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\bin\Debug\net8.0\DemoWebApiApps.Business.deps.json
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\bin\Debug\net8.0\DemoWebApiApps.Business.dll
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\bin\Debug\net8.0\DemoWebApiApps.Business.pdb
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\bin\Debug\net8.0\DemoWebApi.Common.dll
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\bin\Debug\net8.0\DemoWebApi.Common.pdb
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\obj\Debug\net8.0\DemoWebApiApps.Business.csproj.AssemblyReference.cache
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\obj\Debug\net8.0\DemoWebApiApps.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\obj\Debug\net8.0\DemoWebApiApps.Business.AssemblyInfoInputs.cache
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\obj\Debug\net8.0\DemoWebApiApps.Business.AssemblyInfo.cs
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\obj\Debug\net8.0\DemoWebApiApps.Business.csproj.CoreCompileInputs.cache
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\obj\Debug\net8.0\DemoWebApiApps.Business.sourcelink.json
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\obj\Debug\net8.0\DemoWebA.0456BD32.Up2Date
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\obj\Debug\net8.0\DemoWebApiApps.Business.dll
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\obj\Debug\net8.0\refint\DemoWebApiApps.Business.dll
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\obj\Debug\net8.0\DemoWebApiApps.Business.pdb
+C:\Avinash\EDRI_repo\ArchWebApiApps\BusinessLayer\obj\Debug\net8.0\ref\DemoWebApiApps.Business.dll

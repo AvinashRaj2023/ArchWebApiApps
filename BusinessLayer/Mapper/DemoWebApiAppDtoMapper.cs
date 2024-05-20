@@ -1,11 +1,13 @@
 ﻿using AutoMapper;
-namespace SpectrumEmpServices.Business.Mapper
+using DemoWebApi.Common.Entities;
+using DemoWebApiApps.Business.Models;
+namespace DemoWebApi.Business.Mapper
 {
     public class DemoWebApiAppDtoMapper : Profile
     {
         public DemoWebApiAppDtoMapper()
         {
-            //CreateMap<Users, UserModel>().ReverseMap();                     
+            CreateMap<UserBAL, UserDto>().ReverseMap();                     
         }
     }
 }

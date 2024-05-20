@@ -1,9 +1,14 @@
+using AutoMapper;
 using DemoWebApi.Common.Repositories;
+using DemoWebApi.Common.Repositories.Base;
+using DemoWebApiApps.Business.Services;
 using DemoWebApiApps.Data.Data;
 using DemoWebApiApps.Data.Repository.Base;
+using DemoWebApiApps.Services;
 using DemoWebApiApps.ViewModels;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using System.Net;
@@ -22,8 +27,14 @@ builder.Services.AddDbContext<ApplicationContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
-builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+//builder.Services.AddDefaultIdentity<IdentityUser>(options => options.signIn.RequireConfirmedAccount=true).AddEnityFrameworkStores<ApplicationContext>();
+//ConfigureDemoApiAppsServices(builder.Services);
 
+builder.Services.AddTransient(typeof(IRepository<>), typeof(Repository<>));
+builder.Services.AddTransient(typeof(IRepository<>), typeof(Repository<>));
+builder.Services.AddTransient<IUserRepository, UserRepository>();
+builder.Services.AddTransient<IUserService, UserService>();
+builder.Services.AddTransient<IUserAPIService, UserAPIService>();
 
 var app = builder.Build();
 
@@ -77,7 +88,11 @@ void Exception(IApplicationBuilder app)
      }
 );
 }
-//void ConfigureSpectrumAppsServices(IServiceCollection service)
-//{
-//    service.AddAutoMapper();
-//}
+void ConfigureDemoApiAppsServices(IServiceCollection service)
+{
+    service.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+    service.AddScoped<IUserRepository, UserRepository>();
+    service.AddScoped<IUserService, UserService>();
+    service.AddScoped<IUserAPIService, UserAPIService>();
+    //service.AddAutoMapper()
+}

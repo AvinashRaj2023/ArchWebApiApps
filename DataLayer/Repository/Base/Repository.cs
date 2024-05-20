@@ -1,5 +1,5 @@
 ﻿using DemoWebApi.Common.Entities.Base;
-using DemoWebApi.Common.Repositories;
+using DemoWebApi.Common.Repositories.Base;
 using DemoWebApiApps.Data.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
@@ -17,8 +17,8 @@ namespace DemoWebApiApps.Data.Repository.Base
         private readonly ApplicationContext _dbContext;
         private readonly ILogger<T> _logger;
         public Repository(ApplicationContext applicationContext)
-        {           
-            _dbContext = applicationContext;
+        {
+            _dbContext = applicationContext ?? throw new ArgumentNullException(nameof(applicationContext));
         }
         public async Task<T> AddAsync(T entity)
         {

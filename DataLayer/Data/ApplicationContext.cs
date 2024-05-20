@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using DemoWebApi.Common.Entities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,7 @@ namespace DemoWebApiApps.Data.Data
 {
     public class ApplicationContext:DbContext
     {
-        public ApplicationContext(DbContextOptions options): base(options) { }       
+        public ApplicationContext(DbContextOptions options): base(options) { }
+        public virtual DbSet<UserDto> users { get; set; }
     }
 }
